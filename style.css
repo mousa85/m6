@@ -1,0 +1,43 @@
+#body{
+background-image: url(aa.jpg);
+background-attachment: fixed;
+
+background-color: #332f30;
+}
+p.cv11:hover {
+  color: red;
+}
+
+#MYCV{
+
+	color: red ; text-align: right;
+	
+}
+#MYCVBOTTUN{
+	position: right;
+}
+
+#div1{
+	border:solid 5px black;
+
+background-color: yellow;
+	color: #369cf0 ; font-size: 35px;
+}
+#div2{
+background-color: green;
+font-size: 25px ; color: #eaeaea ; text-align: left;
+
+}
+#div3{
+
+	font-size: 20px ; color: #eaeaea;
+}
+#p1{
+background-color:blue ;
+	color: #black;
+}
+#p2{
+background-color:yellow ;
+
+	color: black;
+}
